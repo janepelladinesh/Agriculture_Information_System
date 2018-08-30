@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">A.I.S</string>
+    <string-array name="crop">
+        <item>   Select a crop</item>
+        <item>TOMATO</item>
+        <item>POTATO</item>
+        <item>BRINJAL</item>
+        <item>CARROT</item>
+        <item>CABBAGE</item>
+    </string-array>
+    <string-array name="seas">
+        <item>   Seasonal Crops</item>
+        <item>SUMMER</item>
+        <item>WINTER</item>
+        <item>RAINY</item>
+    </string-array>
+</resources>
